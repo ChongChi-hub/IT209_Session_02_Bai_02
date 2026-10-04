@@ -25,5 +25,4 @@ Kiểm tra đặc quyền:
 sudo whoami
 ```
 
-**Đầu ra lệnh sudo whoami (Vui lòng chạy lệnh trên Droplet và dán text output thật vào đây):**
-[ImgEx]
+*Lưu ý: Vì thẻ visa của em bị khoá nên không thể tạo droplet để chạy thử nghiệm các lệnh này.*
